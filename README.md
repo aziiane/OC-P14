@@ -26,7 +26,7 @@ Une application moderne de gestion des employés développée avec React et Type
 
 ```bash
 git clone git@github.com:aziiane/OC-P14.git
-cd P14-codebase
+cd OC-P14
 ```
 
 2. Installez les dépendances :
